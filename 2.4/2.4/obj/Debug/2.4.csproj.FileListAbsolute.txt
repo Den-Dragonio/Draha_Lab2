@@ -1,0 +1,7 @@
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\bin\Debug\2.4.exe.config
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\bin\Debug\2.4.exe
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\bin\Debug\2.4.pdb
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\obj\Debug\2.4.csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\obj\Debug\2.4.exe
+D:\PROJECTS\Visual studio back-end\2 курс лаб. 2\2.4\2.4\obj\Debug\2.4.pdb
